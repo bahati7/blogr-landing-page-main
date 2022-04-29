@@ -65,6 +65,7 @@ h1{
 .sect-2 img,
 .sect-4 img{
     width: 100%;
+	margin-bottom:1.5em;
     /* width: fit-content; */
 }
 .btns{
