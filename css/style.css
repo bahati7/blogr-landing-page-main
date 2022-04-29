@@ -150,6 +150,7 @@ h3{
     font-family: var(--overpass-300-600);
     font-weight: 600;
     color: white;
+	margin-bottom:1.5em;
 }
 .sect-3 p{
     font-size: 1em;
