@@ -121,6 +121,7 @@ h2{
     font-weight: 300;
     line-height: 1.5em;
     color: hsl(237, 17%, 21%);
+	margin-bottom:1.5em;
 }
 .sect-3{
     background-image:url(/images/bg-pattern-circles.svg),
