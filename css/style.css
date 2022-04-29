@@ -188,6 +188,7 @@ footer{
 ul{
     font-family: var(--ubutu-400-500-700);
     font-weight: 400;
+	margin-bottom:1.5em;
 }
 h4{
     padding-bottom: 1em;
