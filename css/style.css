@@ -352,7 +352,8 @@ ul{
     font-weight: 400;
 	margin-bottom:1.5em;
 }
-h4{
+.title{
+    font-weight: bold;
     padding-bottom: 1em;
 }
 li{
@@ -570,7 +571,7 @@ footer li a{
         text-align: start;
         margin-top: 3rem;
     }
-    footer h4,footer li{
+    footer .title,footer li{
         text-align:start;
     }
     footer ul{
